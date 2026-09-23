@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Student Data</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+    <h1>Student Management</h1>
+
+    <input type="text" id="search" placeholder="Search student">
+
+    <select id="courseFilter">
+        <option value="all">All Courses</option>
+        <option value="IT">IT</option>
+        <option value="CS">CS</option>
+        <option value="CE">CE</option>
+    </select>
+
+    <select id="sort">
+        <option value="default">Sort</option>
+        <option value="az">Name A-Z</option>
+        <option value="za">Name Z-A</option>
+    </select>
+
+    <p id="loading">Loading...</p>
+
+    <p id="error"></p>
+
+    <table border="1">
+
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Name</th>
+                <th>Email</th>
+                <th>Course</th>
+                <th>Year</th>
+            </tr>
+        </thead>
+
+        <tbody id="studentTable"></tbody>
+
+    </table>
+
+    <br>
+
+    <button id="prev">Previous</button>
+
+    <span id="pageNumber">Page 1</span>
+
+    <button id="next">Next</button>
+
+    <script src="script.js"></script>
+
+</body>
+</html>

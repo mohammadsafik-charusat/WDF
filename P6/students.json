@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "name": "Rahul Sharma",
+        "email": "rahul@gmail.com",
+        "course": "IT",
+        "year": 3
+    },
+    {
+        "id": 2,
+        "name": "Priya Patel",
+        "email": "priya@gmail.com",
+        "course": "CS",
+        "year": 3
+    },
+    {
+        "id": 3,
+        "name": "Amit Shah",
+        "email": "amit@gmail.com",
+        "course": "IT",
+        "year": 2
+    },
+    {
+        "id": 4,
+        "name": "Neha Mehta",
+        "email": "neha@gmail.com",
+        "course": "CE",
+        "year": 3
+    },
+    {
+        "id": 5,
+        "name": "Karan Desai",
+        "email": "karan@gmail.com",
+        "course": "CS",
+        "year": 2
+    },
+    {
+        "id": 6,
+        "name": "Riya Shah",
+        "email": "riya@gmail.com",
+        "course": "IT",
+        "year": 3
+    },
+    {
+        "id": 7,
+        "name": "Jay shah",
+        "email": "jay@gmail.com",
+        "course": "CE",
+        "year": 2
+    },
+    {
+        "id": 8,
+        "name": "Anjali Shah",
+        "email": "anjali@gmail.com",
+        "course": "CS",
+        "year": 3
+    },
+    {
+        "id": 9,
+        "name": "Vivek Patel",
+        "email": "vivek@gmail.com",
+        "course": "IT",
+        "year": 2
+    },
+    {
+        "id": 10,
+        "name": "Pooja Mehta",
+        "email": "pooja@gmail.com",
+        "course": "CE",
+        "year": 3
+    },
+    {
+        "id": 11,
+        "name": "Harsh Shah",
+        "email": "harsh@gmail.com",
+        "course": "IT",
+        "year": 2
+    },
+    {
+        "id": 12,
+        "name": "Mansi Patel",
+        "email": "mansi@gmail.com",
+        "course": "CS",
+        "year": 3
+    },
+    {
+        "id": 13,
+        "name": "Dhruv Shah",
+        "email": "dhruv@gmail.com",
+        "course": "CE",
+        "year": 2
+    },
+    {
+        "id": 14,
+        "name": "Sneha Patel",
+        "email": "sneha@gmail.com",
+        "course": "IT",
+        "year": 3
+    },
+    {
+        "id": 15,
+        "name": "Yash Mehta",
+        "email": "yash@gmail.com",
+        "course": "CS",
+        "year": 2
+    }
+]
